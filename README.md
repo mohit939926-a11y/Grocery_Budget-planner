@@ -46,12 +46,13 @@ Users can add items, view their complete list, calculate total cost, and check w
 
 --------------------------------------------------------------------
 
-  ## screen recording
-## Video 1 Demo
-[▶ Watch Video 1 on YouTube](https://youtu.be/NErGnqaDByU)
+## 🎥 Screen Recording Demos
 
-## Video 2 Demo
-[▶ Watch Video 2 on YouTube](https://youtu.be/6tf52REeN7I)
+## 🖥️ Video 1
+[![Video 1](https://img.youtube.com/vi/NErGnqaDByU/0.jpg)](https://youtu.be/NErGnqaDByU)
+
+## 🖥️ Video 2
+[![Video 2](https://img.youtube.com/vi/6tf52REeN7/0.jpg)](https://youtu.be/6tf52REeN7)
 
 
 
