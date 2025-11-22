@@ -1,0 +1,12 @@
+"Date", "Item","Category", "Quantity", "Unit Price ","Total Price "
+"01-10-2025","Bike","Showroom","2 piece","1.50 lakh","3.00 lakh"
+"02-10-2025","Eggs","Dairy","12 pcs","10.00rs","120.00rs"
+"03-10-2025","Dairy Milk","Bakery","2 piece","180.00rs","360.00rs"
+"04-10-2025","Oranges","Fruits","6 piece","30.00rs","180.00rs"
+"05-10-2025","Chicken","Meat","3 kg","300.00rs","900.00rs"
+"06-10-2025","Rice","Grains","2 kg","120.00rs","240.00rs"
+"07-10-2025","Tomatoes","Vegetables","1 kg","80.00rs","80.00rs"
+"08-10-2025","Banana Juice","Beverages","0.5 liter","30.00rs","15.00rs"
+"09-10-2025","Noodles","Grains","1 plate","150rs","150rs"
+"010-10-2025","Cheese","Dairy","5 kg","400.00rs","2000.00rs"
+
