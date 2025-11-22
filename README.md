@@ -46,7 +46,7 @@ Users can add items, view their complete list, calculate total cost, and check w
 
 
   ## screen recording
-  https://github.com/mohit939926-a11y/Grocery_Budget-planner/blob/main/Screen%20Recordings/screen%20recording%20-1.mp4
+  https://github.com/mohit939926-a11y/Grocery_Budget-planner/blob/main/Screen%20Recordings/video1.mp4
   
 
 --------------------------------------------------------------------
