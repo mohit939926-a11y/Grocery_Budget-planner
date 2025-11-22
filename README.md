@@ -44,6 +44,11 @@ Users can add items, view their complete list, calculate total cost, and check w
 * Calculate the whole item instantly
 * Alerts user if they exceed their budget
 
+
+  ## screen recording
+  https://github.com/mohit939926-a11y/Grocery_Budget-planner/blob/main/Screen%20Recordings/screen%20recording%20-1.mp4
+  
+
 --------------------------------------------------------------------
 
 ## Conclusion
