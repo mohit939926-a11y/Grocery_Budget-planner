@@ -52,7 +52,7 @@ Users can add items, view their complete list, calculate total cost, and check w
 [![Video 1](https://img.youtube.com/vi/NErGnqaDByU/0.jpg)](https://youtu.be/NErGnqaDByU)
 
 ## 🖥️ Video 2
-[![Video 2](https://img.youtube.com/vi/6tf52REeN7/0.jpg)](https://youtu.be/6tf52REeN7)
+[![Video 2](https://img.youtube.com/vi/6tf52REeN7I/0.jpg)](https://youtu.be/6tf52REeN7I)
 
 
 
