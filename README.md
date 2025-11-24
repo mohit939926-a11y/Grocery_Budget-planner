@@ -1,82 +1,73 @@
- #   TITLE: Grocery Budget Planner 
-        
-## Overview
-The **Grocery Budget Planner** is a simple Python console-based programme that helps users manage their monthly income.
-Users can add items, view their complete list, calculate total cost, and check whether they are within their monthly budget.
+# 🛒 Grocery Budget Planner
 
--------------------------------------------------------------------
+A simple Python project that helps users manage grocery expenses by adding items, viewing total cost, and checking if they are within budget. It improves financial awareness and helps avoid overspending.
 
-## features
-~ Add grocery items with name, price, and quantity.
-~ Automatically calculates total cost of each item.
-~ Display stored items in clean list.
-~ Checks if total  grocery spending exceeds the user's budget.
-~ Simple and user friendly menu driven interface.
+---
 
--------------------------------------------------------------------
+## ✨ Features
 
-## How To Run
-1. Install python on our system.
-2. Save the project file.
-3. Open terminal and run the Code.
+- Add grocery items with price & quantity  
+- View complete grocery list anytime  
+- Delete items if needed  
+- Auto-calculates total cost  
+- Check monthly grocery budget  
+- Simple & user-friendly menu  
+- Works in any Python IDE
 
--------------------------------------------------------------------
+---
 
-## Code Used
-- Loops
-- Lists to store item
-- Conditional statements
-- Basic arithmatic operation
-- User input handling
+## 📁 Project Structure
 
--------------------------------------------------------------------
+| File Name | Description |
+|----------|-------------|
+| `grocery_budget.py` | Main Python program |
+| `dataset.csv` | Sample grocery dataset |
+| `README.md` | Project documentation |
 
-## Testing
-| item name | Price  | Quantity | Total Cost |
-|  ------   | -----  | -------- | ---------  |
-|   Rice    |   40   |    2     |     80     |
+---
 
+## 💻 How to Run
 
---------------------------------------------------------------------
+1. Install Python
+2. Open the project in VS Code / Terminal
+3. Run the command:
 
-## Project Output
-* Shows added item clearly
-* Calculate the whole item instantly
-* Alerts user if they exceed their budget
+   
+4. Follow on-screen instructions
 
---------------------------------------------------------------------
+---
 
-## 🎥 Screen Recording Demos
+## 📌 Conclusion
 
-## 🖥️ Video 1
-[![Video 1](https://img.youtube.com/vi/NErGnqaDByU/0.jpg)](https://youtu.be/NErGnqaDByU)
+This project helps users plan and control grocery spending in a better way.  
+It provides a simple approach to track everyday purchases and manage a monthly budget effectively.
 
-## 🖥️ Video 2
-[![Video 2](https://img.youtube.com/vi/6tf52REeN7I/0.jpg)](https://youtu.be/6tf52REeN7I)
+---
 
+## 🚀 Future Enhancements
 
+- Save grocery list permanently in a file
+- Graphical expense visualization
+- Category-wise budget planning
+- Export to Excel report
 
-  
+---
 
---------------------------------------------------------------------
+## 📜 License
 
-## Conclusion
-This project provides an easy method to track grocery spending and stay within a monthly budget.
-It uses basic python concept abd solve a simple real-life problem in an effective way.
-
----------------------------------------------------------------------
-
-## Author 
-MOHIT THAKUR 25MIM10126
-VIT Bhopal University 
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project while giving proper credit to the author.
 
 
+---
 
+## 🧑‍💻 Author
 
+**Mohit Thakur**  
+VIT Bhopal University  
+Flipped Course Project
 
-
-
-
+---
 
 
 
